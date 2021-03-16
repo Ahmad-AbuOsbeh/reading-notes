@@ -13,11 +13,11 @@ some information about the growth mindset
 ### I think the growth mindset is about the amount of the efforts and number of falls that makes the person never stop trying to reach his goals, and I think as person got or faced a huge number of falls in his life, then if he didn't give up, will become more stronger and a self independent person.
 
 **things that motivate me always :**
-> No efforts will gone without benefit, but we don't know when will need what we try today and how! ( the sucsee is existing in the failure, but we should reach or find it )
+1. > No efforts will gone without benefit, but we don't know when will need what we try today and how! ( the sucsee is existing in the failure, but we should reach or find it )
 
-> try and try and try. ( don't give up) 👍
+2. > try and try and try. ( don't give up) 👍
 
-> fill your time with a good things, NO excess time here 🕙 
+3. > fill your time with a good things, NO excess time here 🕙 
 
 ***[article about growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)***
 
