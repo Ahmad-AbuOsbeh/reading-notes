@@ -37,10 +37,4 @@ as a Markdowne is a language,then it have some syntaxes and rules that are will 
 
 and more else.
 
-# Get intro
-seeing your remotes:
-
-if we put this command in windows terminal ( git remote ) you will see the short names of remote handels
-but if we put this ( git remote -v ) you will see all remote URLs with it's short names.
-
                
