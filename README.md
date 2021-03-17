@@ -3,7 +3,7 @@
 table of contents :
 
 |      Assignment    |     the Live link                          |
-| --------------------------------------------------------------- |
+| -------------------|------------------------------------------- |
 |        Read01      | [The Coder's Computer](read01.md)          |
 |        Read02a     | [Learning Markdown](read02a.md)            |
 |        Read02b     | [Revisions and the cloud](read02b.md)      |
