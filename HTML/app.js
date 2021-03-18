@@ -17,10 +17,11 @@ console.log(ConfirmMessage);
 var OurService=prompt("Which is the service you search about ? 3D Modeling || 3D Rendering || 3D Design ?")
 
 if(OurService=='3D Modeling')
-   {document.write('<img src="pictures/3D printer.JPG" style="width=550px"/>')}
+   {document.write('<img src="pictures/3D printer.JPG" style="width:550px"/>')}
 
     else if(OurService=='3D Rendering')
-             {document.write('<img src="pictures/RO plant.JPG"/>')}
+             {document.write('<img src="pictures/RO plant.JPG" style="width:550px"/>')}
 
            else if(OurService=='3D Design')
-             {document.write('<img src="pictures/wood2.jpg"/>')}
+             {document.write('<img src="pictures/wood2.jpg" style="width:550px"/>')}
+               else{}
