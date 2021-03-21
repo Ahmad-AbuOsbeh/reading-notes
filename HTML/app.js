@@ -64,3 +64,14 @@ var resultServices=""
     console.log('finalResults',finalResults)
 
     document.write(finalResults);
+
+//     var i = l;
+// var msg = '';
+// // II Set //counter to 1
+// // II Message
+// // II Store 5 times tabl e in a variable
+// while(i < 10){
+// msg+= i + ' x 5 = ' + (i * 5) + '<br/>';
+// i++}
+// // document.getElementByid('answer').innerHTML= msg;
+// document.write(msg)
