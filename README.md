@@ -9,3 +9,4 @@ table of contents :
 |        Read02b     | [Revisions and the cloud](read02b.md)      |
 |        Read03      | [Structure web pages with HTML](read03.md) |
 |        Read04      | [Programming with JavaScript](read04.md)   |
+|        Read05      | [Operators and Loops](read05.md)           |
