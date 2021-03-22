@@ -6,6 +6,11 @@ var WelcomeMessage="You are welcome to Solidworks Jordan";
 alert(WelcomeMessage);
 
 var ConfirmMessage = ""
+
+// i have to define a fuctions here to reusing this anytime easly
+
+// function getConfirmMessage(userConfirmation){
+
 while (ConfirmMessage !== "yes"){
 
   ConfirmMessage =prompt("would you like to know who we are ?")
