@@ -18,8 +18,8 @@ while (ConfirmMessage !== "yes"){
 }
 
 if(ConfirmMessage==true)
-{document.write('<h3>'+'We are a specialet page in the mechanical design field, we can help you to convert your ideas into real things, we put the years of experience on your hand.'+'</h3>')}
-else{document.write('<h3>'+'IF you are not interested, THANK YOU for your visit!'+'</h3>')}
+{document.write('<h3>'+'IF you are not interested, THANK YOU for your visit!'+'</h3>')}
+else{document.write('<h3>'+'We are a specialet page in the mechanical design field, we can help you to convert your ideas into real things, we put the years of experience on your hand.'+'</h3>')}
 
 console.log(ConfirmMessage);
 
