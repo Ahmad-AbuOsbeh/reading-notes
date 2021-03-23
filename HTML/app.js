@@ -42,7 +42,7 @@ function getUserService(userService,numberOFit){
     
     
   }
-  // return userService,numberOFit
+  return userService,numberOFit
   
 }
 getUserService(OurService,numberOfServices);
@@ -81,8 +81,9 @@ if((OurService!== ("3D Modeling"||"3D Rendering"||"3D Design"))&& !(numberOfServ
   }
     reultsByFunction(resultServices,numberOfServices)
     console.log("finalResults",finalResults);
+  
     // console.log("finalResults",finalResults);
-    // document.write(reultsByFunction());
+    document.write(reultsByFunction());
 
 //     var i = l;
 // var msg = '';
