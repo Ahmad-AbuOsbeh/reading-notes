@@ -9,7 +9,6 @@ var ConfirmMessage = ""
 
 // i have to define a fuctions here to reusing this anytime easly
 
-// function getConfirmMessage(userConfirmation){
 
 while (ConfirmMessage !== "yes"){
 
@@ -95,3 +94,11 @@ if((OurService!== ("3D Modeling"||"3D Rendering"||"3D Design"))&& !(numberOfServ
 // i++}
 // // document.getElementByid('answer').innerHTML= msg;
 // document.write(msg)
+
+// if(((2 * 90) === 180) && (true && 'true')){
+
+//   console.log("true");
+// }
+// else{
+//   console.log("false");
+// }
