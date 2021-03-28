@@ -6,13 +6,13 @@ table of contents :
 
 |      Assignment    |     the Live link                          |
 | -------------------|------------------------------------------- |
-|        Read01      | [The Coder's Computer](read01.md)          |
-|        Read02a     | [Learning Markdown](read02a.md)            |
-|        Read02b     | [Revisions and the cloud](read02b.md)      |
-|        Read03      | [Structure web pages with HTML](read03.md) |
-|        Read04      | [Programming with JavaScript](read04.md)   |
-|        Read05      | [Operators and Loops](read05.md)           |
-|        Read06      | [Design web pages with CSS](read06.md)     |
+|        Read01      | [The Coder's Computer](102/read01.md)          |
+|        Read02a     | [Learning Markdown](102/read02a.md)            |
+|        Read02b     | [Revisions and the cloud](102/read02b.md)      |
+|        Read03      | [Structure web pages with HTML](102/read03.md) |
+|        Read04      | [Programming with JavaScript](102/read04.md)   |
+|        Read05      | [Operators and Loops](102/read05.md)           |
+|        Read06      | [Design web pages with CSS](102/read06.md)     |
 
 ### code 201 reading notes
 
