@@ -18,12 +18,12 @@ table of contents :
 
 table of contents :
 
-|      Assignment    |     the Live link                                                          |
-| -------------------|--------------------------------------------------------------------------- |
-|        Read01      | [Introductory HTML and JavaScript](201/read01.md)       | 
-|        Read02      | [](201/read02.md)                                       |
-|        Read03      | [](201/read03.md)                                       |
-|        Read04      | [](201/read04.md)                                       |
+|      Assignment    |     the Live link                                                              |
+| -------------------|------------------------------------------------------------------------------- |
+|        Read01      | [Introductory HTML and JavaScript](201/read01.md)                              | 
+|        Read02      |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/read02.md) |
+|        Read03      | [](201/read03.md)                                                              |
+|        Read04      | [](201/read04.md)                                                              |
 |        Read05      | [](201/read05.md)                                       |
 |        Read06      | [](201/read06.md)                                       | 
 |        Read07      | [](201/read07.md)                                       |
