@@ -1,24 +1,24 @@
 # HTML and CSS
 ## chapter2
 
-<h1> the main heading and when you use the search engines it will find the h1 content.
+h1 the main heading and when you use the search engines it will find the h1 content.
 there are 6 levels of heading.
 
-<p> : this tag for paragraph
-<b> : this for bold
-<i> : this for italic
-<sup> : this used for superscript characters like 5^th
-<sub> : this used for subscript characters like CO_2
+p tag : this tag for paragraph
+b : this for bold
+i : this for italic
+sup : this used for superscript characters like 5^th
+sub : this used for subscript characters like CO_2
 
 white space collapsing : the browser deals with each morethan one space as one space.
 
-<br /> : to start with new line
-<hr /> : to add a horizontal line
+br  : to start with new line
+hr : to add a horizontal line
 
-<strong> : used for make importance, will display in bold
-<em> : used for words that affect the meaning of sentance, will display in italic.
-<ins> : to show the new content, will display with underline
-<del> : to show the deleted content, will display with line through it.
+strong : used for make importance, will display in bold
+em : used for words that affect the meaning of sentance, will display in italic.
+ins : to show the new content, will display with underline
+del : to show the deleted content, will display with line through it.
 
 ## chapter 10
 
