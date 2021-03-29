@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CREO JO</title>
+        <style>
+            #one{
+                text-align: center;
+                color: rgb(207, 9, 9);
+                background-color: rgb(15, 14, 14);
+                height: 80px;
+                margin-top: 30px;
+                padding-top: 40px;
+            }
+            li{
+                display: inline-block;
+            }
+            .lists{
+                color: rgb(21, 31, 167);
+                text-decoration: none;
+                margin-left: 15px;
+            }
+            #two{
+                color: chartreuse;
+                background-color: black;
+                font-size: 50px;
+            }
+            #three{
+                color: blanchedalmond;
+                background-color: brown;
+                font-size: 50px;
+            }
+            #four{
+                color: cadetblue;
+                background-color: fuchsia;
+                font-size: 50px;
+            }
+            #five{
+                color: black;
+                background-color: burlywood;
+                font-size: 50px;
+            }
+            footer{
+                height: 60px;
+                background-color: black;
+                color: red;
+                
+            }
+            footer p{
+                color: rgb(23, 167, 18);
+                text-align: center;
+                padding-top: 15px;
+                
+            }
+            
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1 id="one">CREO JO
+            </h1> 
+            <nav>
+                <ul>
+                    <li><a class="lists" href="https://www.facebook.com/Creo.Ju/">Home
+                    </a></li>
+                    <li><a class="lists" href="https://fb.watch/4wa5NJTT4q/">About Us</a></li>
+                    <li><a class="lists" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D962780991712%26fbclid%3DIwAR1aQRXlrrxSf9SCdnbiXlcnYEtDWQ8bux4sIubkbMV1BTXrpwL6VakRNiU&h=AT0llYKaeyXNpjxovo-of-fKp7SErVEVzb9CM_f4l6cAof7CXKt5LK6oJa9DW1qYNNQYaHJZbexfBgCuOkwwpntu6hJvxfzgBsTCwK2V6dAlaAF_SVkJN4XVd7MpOYd5aFkILw">Contact Us</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+           <p id="two"> what is your major ? </p>
+           <p id="three">we are specialest in the mechanical design</p>
+           <p id="four">How much your experience with 3D Modeling ?</p>
+           <p id="five">Creo JO learn you from zero until the exprt level</p>
+           
+        </main>
+        <footer>
+              <p> All rights reserved &copy;CREO JO </p>
+        </footer>
+            <script>
+               let userName= prompt('what\'s your name ?');
+                    console.log(userName);
+               alert('Hello '+ userName);
+                    // console.log(userName);
+               let userMajor= confirm('are you mechanical engineer ?');
+                    console.log(userMajor);
+               alert('Hello '+ userName +' you are mechanical engineer ');
+                    // console.log(alert2);
+               let mainService=prompt('which of these services you are intersted in ? 3D Modeling or Motin Analysis');
+                    console.log(mainService);
+               alert('Hello '+ userName +' you are mechanical engineer '+' and you are interested with '+mainService);
+                    console.log(mainService);
+               let bestSoftware=prompt('which the best software for you, CREO or Solidworks ?');
+                    console.log(bestSoftware);
+               alert('Hello '+ userName +' you are mechanical engineer '+' and you are interested with '+mainService+' the best software for you is '+bestSoftware);
+                    // console.log(alert);
+            </script>
+    </body>
+</html>
