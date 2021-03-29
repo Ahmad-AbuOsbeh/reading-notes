@@ -83,3 +83,4 @@ Scrept : as a guide manual; the programmer write the script then the browser use
 
 - flow chart : a chart contain the main tasks that you have to accomplish in your website, each main task divided to some stpes, you have to write a special command in your code of each step.
 
+" ---------------this is the same summery for code 102 reads------------------- "
