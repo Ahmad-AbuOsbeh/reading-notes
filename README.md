@@ -27,7 +27,7 @@ table of contents :
 |        Read05      | [HTML Images; CSS Color & Text](201/read05.md)                                 |
 |        Read06      | [](201/read06.md)                                       | 
 |        Read07      | [](201/read07.md)                                       |
-|        Read08      | [](201/read08.md)                                       |
+|        Read08      | [More CSS Layout](201/read08.md)                        |
 |        Read09      | [](201/read09.md)                                       |
 |        Read10      | [](201/read10.md)                                       |
 |        Read11      | [](201/read11.md)                                       | 
