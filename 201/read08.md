@@ -4,11 +4,11 @@
 - you can edit the position of any HTML element by using position style or command.
 
 - type of positions :
- - static: it is the default position(if you will not select a position style, then it will be static), it makes your elements under each other and this is called the normal flow.
- - relative: it will move the element by certain pixels or any other unit, relative to its original position.
- - absolute: it will search for relative or absolute parent elements and will be moved inside its parent(if was relative or absolute), if it didn't find any relative parent, then its absolute parent will be HTML tag and can be moved on the whole browser screen.
- - fixed: it will fix the element and stay fixing when scrolling up and down.
- - sticky: it allows movement of the element on the screen, but when scrolling up and reach the top bar, it will be fixed there.
+  - static: it is the default position(if you will not select a position style, then it will be static), it makes your elements under each other and this is called the normal flow.
+  - relative: it will move the element by certain pixels or any other unit, relative to its original position.
+  - absolute: it will search for relative or absolute parent elements and will be moved inside its parent(if was relative or absolute), if it didn't find any relative parent, then its absolute parent will be HTML tag and can be moved on the whole browser screen.
+  - fixed: it will fix the element and stay fixing when scrolling up and down.
+  - sticky: it allows movement of the element on the screen, but when scrolling up and reach the top bar, it will be fixed there.
 
 - when you select the position type of the element, you can use offset properties to move it, top, bottom, right, and left.
 
