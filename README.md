@@ -29,7 +29,7 @@ table of contents :
 |        Read07      | [](201/read07.md)                                       |
 |        Read08      | [More CSS Layout](201/read08.md)                        |
 |        Read09      | [Forms and Events](201/read09.md)                       |
-|        Read10      | [](201/read10.md)                                       |
+|        Read10      | [JS Debugging](201/read10.md)                           |
 |        Read11      | [](201/read11.md)                                       | 
 |        Read12      | [](201/read12.md)                                       |
 |        Read13      | [](201/read13.md)                                       |
