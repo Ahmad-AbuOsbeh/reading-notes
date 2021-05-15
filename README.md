@@ -1,6 +1,6 @@
 ## I'm Ahmad Abu Osbeh, this is my web page contain all of my readings summuries..
 
-### code 102 reading notes
+### code 102 - Intro to Software Development :
 
 table of contents :
 
@@ -14,7 +14,7 @@ table of contents :
 |        Read05      | [Operators and Loops](102/read05.md)                                           |
 |        Read06      | [Design web pages with CSS](102/read06.md)                                     |
 
-### code 201 reading notes
+### code 201 - Foundations of Software Development :
 
 table of contents :
 
@@ -37,7 +37,7 @@ table of contents :
 |        Read15      | [](201/read15.md)                                                              |
 
 
-### code 301 reading notes
+### code 301 - Intermediate Software Development :
 
 table of contents :
 
