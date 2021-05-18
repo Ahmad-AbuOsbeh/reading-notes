@@ -1,7 +1,7 @@
-# Passing Functions as Props
+# Passing Functions as Props
 
 
-## lists and keys
+## lists and keys
 
 
 1-What does .map() return?
@@ -20,7 +20,7 @@
 
 
 
-## spread operator
+## spread operator
 1-What is the spread operator?
 - it is **...** used to expand array items and combining arrays and objects and more things also.
 
@@ -47,7 +47,7 @@
   const obj3={...obj1,...obj2}
 
 
-## passing functions between components
+## passing functions between components
 1-In the video, what is the first step that the developer does to pass functions between components?
 - he made an increment function and it looped over the array in the state by map.
 2-In your own words, what does the increment function do?
@@ -58,7 +58,7 @@
 - by props. using this.props.propName.
 
 
-## Things I want to know more about
+## Things I want to know more about
 
 
 - still, I need more effort to understand React concepts well.
